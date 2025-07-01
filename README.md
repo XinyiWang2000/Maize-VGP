@@ -27,16 +27,20 @@ After downloading, please put the images under the `datasets` folder in the foll
 datasets/
 ├── train_A/
 │   ├── image1
-│   └── image2
+│   ├── image2
+│   └── ...
 ├── train_B/
 │   ├── target_image1
-│   └── target_image2
+│   ├── target_image2
+│   └── ...
 ├── test_A/
 │   ├── image3
-│   └── image4
+│   ├── image4
+│   └── ...
 └── test_B/
     ├── target_image3
-    └── target_image4
+    ├── target_image4
+    └── ...
 ```
 
 
